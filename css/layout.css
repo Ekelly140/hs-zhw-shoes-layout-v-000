@@ -28,6 +28,7 @@
   width: 960px;
 }
 
-.shadow {
+.feature {
   float:left;
+  width: 64%;
 }

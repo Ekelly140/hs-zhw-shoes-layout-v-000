@@ -24,7 +24,11 @@
 
 /* Posititoning Classes */
 
+.wrapper {
+  width: 960px;
+}
+
 .shadow {
   float:left;
-  width: 32%;
+  width: 64%;
 }

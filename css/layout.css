@@ -61,5 +61,5 @@
 }
 
 .border_right{
-  display: inline;
+  float:left
 }
